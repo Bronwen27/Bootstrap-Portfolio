@@ -10,9 +10,11 @@ I have created my own portfolio using HTML, CSS and Bootstrap and uploaded it to
 
 ## Deployed Link:
 
+https://bronwen27.github.io/Bootstrap-Portfolio/
 
 ## Repo Link:
 
+https://github.com/Bronwen27/Bootstrap-Portfolio
 
 ## Installation
 
